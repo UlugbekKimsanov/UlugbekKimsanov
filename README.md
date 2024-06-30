@@ -1,7 +1,7 @@
-<p align="center"> <img src="https://miro.medium.com/v2/resize:fit:960/1*teOGZM4Z7AO8pcAd3ypkiQ.jpeg"> </p>
-<h1 align="center">Hi 👋, I'm Ulug'bek</h1>
-<h3 align="center">Java backend developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" src="http://basicoderzz.epizy.com/wp-content/uploads/2023/05/coding.gif"
+(https://miro.medium.com/v2/resize:fit:960/1*teOGZM4Z7AO8pcAd3ypkiQ.jpeg)
+<h1 align="center">Hi 👋,   I'm  Ulug'bek</h1>
+<h1 align="center">Java backend developer from Uzbekistan</h1>
+<img align="right" alt="Coding" width="500" src="http://basicoderzz.epizy.com/wp-content/uploads/2023/05/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulugbekkimsanov&label=Profile%20views&color=0e75b6&style=flat" alt="ulugbekkimsanov" /> </p>
 
@@ -11,21 +11,105 @@
 
 - 💬 Ask me about **Java,Spring,Hibernate**
 
+- 📄 Know about my experiences [https://www.canva.com/design/DAFramNX_2o/lcFxOZ-5rg9NXOAZaieqNA/view?utm_content=DAFramNX_2o&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAFramNX_2o/lcFxOZ-5rg9NXOAZaieqNA/view?utm_content=DAFramNX_2o&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 - 📫 How to reach me **kimsanov0717@gmail.com**
 
-- 📄 Know about my experiences [About Me](https://www.canva.com/design/DAFramNX_2o/lcFxOZ-5rg9NXOAZaieqNA/view?utm_content=DAFramNX_2o&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
-<h3 align="left">Connect with me:</h3>
+- <h3 align="left">Connect with me: [+998 93 986 99 69]  </h3>
 <p align="left">
-<a href="https://www.hackerrank.com/@kimsanov0717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kimsanov0717" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/uzcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uzcoder" height="30" width="40" /></a>
+<a href="https://t.me/Ulugbe_k" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="Izzatullo" height="30" width="35" /</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ulugbekkimsanov&show_icons=true&locale=en&layout=compact" alt="ulugbekkimsanov" /></p>
+## 🛠️ My Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ulugbekkimsanov&show_icons=true&locale=en" alt="ulugbekkimsanov" /></p>
+### 👉 Programming languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ulugbekkimsanov&" alt="ulugbekkimsanov" /></p>
+<p align="left"> 
+  <a href="https://isocpp.org/">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a>
+&emsp;
+
+<a href="https://www.java.com/en/">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+</p>
+
+### 👉 Frameworks
+<p>
+	<img src="http://img.shields.io/badge/-Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
+	<img src="http://img.shields.io/badge/-Springboot-629e3a?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
+</p>
+
+### 👉 Databases & Cloud Hosting
+<p>
+	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/GitLab%20-%23F7DF1E.svg?&style=for-the-badge&color=FC6D26" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+ </p>
+
+### 👉 Software & Tools
+ <p>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/RabbitMQ%20-%23F7DF1E.svg?&style=for-the-badge&color=FF6600" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Apache Kafka%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Redis%20-%23F7DF1E.svg?&style=for-the-badge&color=802221" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Swagger%20-%23F7DF1E.svg?&style=for-the-badge&color=87BE3F" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/OpenApi-6BA539?&style=for-the-badge&logo=openapi-initiative&logoColor=F7F7F7" />&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
+
+
+</p>
+
+### :fire: My Github Stats :
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izzatilloTilavoldiyev&stroke=EB5454" alt="Izzatullo Tilavoldiyev" /></p>
+
+
+   <p align="center">
+          <a href="https://github.com/izzatilloTilavoldiyev/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=UlugbekKimsanov&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=UlugbekKimsanov&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+
+<p align="center">
+        <a href="https://github.com/UlugbekKimsanov/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekKimsanov&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: overall Top Langs " /></a>
+      </p>
+
+ <p align="center">
+          <a href="https://github.com/UlugbekKimsanov/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izzatilloTilavoldiyev&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izzatilloTilavoldiyev&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by commit" />
+          </a>
+        </p>
+
+</div>
+
+<div style="position: center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+          alt="snake" /></a>
+</div>
+
+<div>
+     <h1 align="center">
+	<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting!">
+</h1>
+</div>
