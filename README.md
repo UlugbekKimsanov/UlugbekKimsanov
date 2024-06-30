@@ -69,10 +69,6 @@
 </p>
 
 ### :fire: My Github Stats :
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izzatilloTilavoldiyev&stroke=EB5454" alt="Izzatullo Tilavoldiyev" /></p>
-
-
    <p align="center">
           <a href="https://github.com/UlugbekKimsanov/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=UlugbekKimsanov&theme=gruvbox&hide_border=true" />
