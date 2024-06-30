@@ -1,4 +1,4 @@
-(https://miro.medium.com/v2/resize:fit:960/1*teOGZM4Z7AO8pcAd3ypkiQ.jpeg)
+[](https://miro.medium.com/v2/resize:fit:960/1*teOGZM4Z7AO8pcAd3ypkiQ.jpeg)
 <h1 align="center">Hi 👋, I'm Ulug'bek</h1>
 <h3 align="center">Java backend developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="http://basicoderzz.epizy.com/wp-content/uploads/2023/05/coding.gif"
