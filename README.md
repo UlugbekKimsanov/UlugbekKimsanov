@@ -1,4 +1,4 @@
-(https://miro.medium.com/v2/resize:fit:960/1*teOGZM4Z7AO8pcAd3ypkiQ.jpeg)
+<img align="center" alt="Coding" width="500" src="https://miro.medium.com/v2/resize:fit:960/1*teOGZM4Z7AO8pcAd3ypkiQ.jpeg">
 <h1 align="center">Hi 👋,   I'm  Ulug'bek</h1>
 <h1 align="center">Java backend developer from Uzbekistan</h1>
 <img align="right" alt="Coding" width="500" src="http://basicoderzz.epizy.com/wp-content/uploads/2023/05/coding.gif">
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java,Spring,Hibernate**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFramNX_2o/lcFxOZ-5rg9NXOAZaieqNA/view?utm_content=DAFramNX_2o&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAFramNX_2o/lcFxOZ-5rg9NXOAZaieqNA/view?utm_content=DAFramNX_2o&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences [About Me](https://www.canva.com/design/DAFramNX_2o/lcFxOZ-5rg9NXOAZaieqNA/view?utm_content=DAFramNX_2o&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 - 📫 How to reach me **kimsanov0717@gmail.com**
 
