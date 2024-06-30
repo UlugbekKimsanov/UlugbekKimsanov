@@ -61,9 +61,11 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Swagger%20-%23F7DF1E.svg?&style=for-the-badge&color=87BE3F" />&nbsp;&nbsp;
+</p>
+<p>
 <img src="https://img.shields.io/badge/OpenApi-6BA539?&style=for-the-badge&logo=openapi-initiative&logoColor=F7F7F7" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;	
 </p>
 
 ### :fire: My Github Stats :
