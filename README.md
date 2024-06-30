@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kimsanov0717@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFramNX_2o/lcFxOZ-5rg9NXOAZaieqNA/view?utm_content=DAFramNX_2o&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAFramNX_2o/lcFxOZ-5rg9NXOAZaieqNA/view?utm_content=DAFramNX_2o&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences [About Me](https://www.canva.com/design/DAFramNX_2o/lcFxOZ-5rg9NXOAZaieqNA/view?utm_content=DAFramNX_2o&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
