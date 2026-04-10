@@ -84,9 +84,9 @@
 
  <p align="center">
           <a href="https://github.com/UlugbekKimsanov/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izzatilloTilavoldiyev&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UlugbekKimsanov&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izzatilloTilavoldiyev&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UlugbekKimsanov&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: Top Langs by commit" />
           </a>
         </p>
