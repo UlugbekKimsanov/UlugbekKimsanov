@@ -71,12 +71,16 @@
 ### :fire: My Github Stats :
 
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=UlugbekKimsanov&theme=gruvbox&hide_border=true" />
-  <img width="49.5%" src="https://streak-stats.demolab.com?user=UlugbekKimsanov&theme=gruvbox&hide_border=true" />
+	<a href="https://github.com/UlugbekKimsanov/">
+ 	 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=UlugbekKimsanov&theme=gruvbox&hide_border=true" />
+  		<img width="49.5%" src="https://streak-stats.demolab.com?user=UlugbekKimsanov&theme=gruvbox&hide_border=true" />
+	</a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekKimsanov&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" />
+	<a href="https://github.com/UlugbekKimsanov/">
+  		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekKimsanov&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" />
+	</a>
 </p>
 
  <p align="center">
